@@ -1,0 +1,5 @@
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\TP-TriRapide-master\TriRapide-MultiThreadsV2\TriRapide-MultiThreadsV2\obj\x86\Debug\TriRapide-MultiThreadsV2.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\TP-TriRapide-master\TriRapide-MultiThreadsV2\TriRapide-MultiThreadsV2\bin\Debug\TriRapide-MultiThreadsV2.exe
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\TP-TriRapide-master\TriRapide-MultiThreadsV2\TriRapide-MultiThreadsV2\bin\Debug\TriRapide-MultiThreadsV2.pdb
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\TP-TriRapide-master\TriRapide-MultiThreadsV2\TriRapide-MultiThreadsV2\obj\x86\Debug\TriRapide-MultiThreadsV2.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\Documents\Visual Studio 2013\Projects\TP-TriRapide-master\TriRapide-MultiThreadsV2\TriRapide-MultiThreadsV2\obj\x86\Debug\TriRapide-MultiThreadsV2.pdb

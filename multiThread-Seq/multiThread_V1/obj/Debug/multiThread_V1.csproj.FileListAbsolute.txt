@@ -1,0 +1,6 @@
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\bin\Debug\multiThread_V1.exe.config
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\bin\Debug\multiThread_V1.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\bin\Debug\multiThread_V1.pdb
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\obj\Debug\multiThread_V1.csprojResolveAssemblyReference.cache
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\obj\Debug\multiThread_V1.exe
+c:\users\alexa_000\documents\visual studio 2013\Projects\multiThread_V1\multiThread_V1\obj\Debug\multiThread_V1.pdb
